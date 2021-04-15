@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# Welcome to the Games and Natural Language Processing Workshop at IEEE CoG
+# Welcome to the Games and Natural Language Processing Special Session at IEEE CoG
 
 The Games and NLP Special Session will examine the use of games and gamification
 for Natural Language Processing (NLP) tasks, as well as how NLP research can
