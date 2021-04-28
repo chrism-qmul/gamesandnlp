@@ -59,7 +59,7 @@ assessing game and player performance.
 - Paper Acceptance - June 8th
 - Camera ready deadline - June 18th
 
-##Submissions
+## Submissions
 
  We invite submissions of full papers (8 pages), short papers (4 pages), and
 extended abstracts (2 pages). Page lengths are excluding references and metrics.

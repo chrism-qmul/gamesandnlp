@@ -12,7 +12,9 @@ talk, and a poster and demo session.
 
 Important Dates:
 
-- TBD
+- Paper submission deadline - May 28th
+- Paper Acceptance - June 8th
+- Camera ready deadline - June 18th
 
 Call for Papers will soon be released with more details.
 
