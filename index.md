@@ -4,7 +4,7 @@ layout: home
 
 # Welcome to the Games and Natural Language Processing Special Session at IEEE CoG
 
-The Games and NLP Special Session will examine the use of games and gamification
+The Games and NLP Special Session at [IEEE CoG 2021](https://ieee-cog.org/2021/) will examine the use of games and gamification
 for Natural Language Processing (NLP) tasks, as well as how NLP research can
 advance player engagement and communication within games. The workshop will have
 presentations of accepted papers (full, short, extended abstracts), an invited
@@ -16,7 +16,6 @@ Important Dates:
 - Paper Acceptance - June 8th
 - Camera ready deadline - June 18th
 
-Call for Papers will soon be released with more details.
 
 ## Keynote: LIGHT Project (Jack Urbanek)
 
