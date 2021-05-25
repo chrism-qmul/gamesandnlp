@@ -5,12 +5,10 @@ permalink: /organisation/
 ---
 
 ## Organisation Committee
-- Chris Madge, co-chair (Queen Mary University of London)
-- James Ryan, co-chair (BBN Technologies, US)
+- Chris Madge, chair (Queen Mary University of London)
 - Jon Chamberlain (University of Essex, UK)
 - Karën Fort (Sorbonne Université,  France)
 - Udo Kruschwitz (University of Regensburg, Germany)
-- Adam Summerville (California State Polytechnic University, Pomona, US)
 
 ## Programme Committee
 - Brent Harrison,	University of Kentucky, US
@@ -22,7 +20,6 @@ permalink: /organisation/
 - Morteza Behrooz,	University of California, Santa Cruz, US
 - Paulo F. Gomes,	University of California Santa Cruz, US
 - Pedro Santos,	INESC-ID & Instituto Superior Técnico, University of Lisbon
-- Seth Cooper,	Northeastern University, US
 - Valerio Basile,	University of Turin, Italy
 - Verena Lyding,	EURAC, Italy
 - Luis Morgado da Costa,	Nanyang Technological University, Singapore

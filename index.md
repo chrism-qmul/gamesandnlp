@@ -12,7 +12,7 @@ talk, and a poster and demo session.
 
 Important Dates:
 
-- Paper submission deadline - May 28th
+- Paper submission deadline - ~~May 28th~~ **EXTENDED May 31st**
 - Paper Acceptance - June 8th
 - Camera ready deadline - June 18th
 
@@ -26,3 +26,9 @@ will talk about his work on his recent projects such as LIGHT (Learning in
 Interactive Games with Humans and Text)  a large scale online MUD (multi user
 dungeon) game for researching grounded language and the supporting Parl.AI, a
 framework for testing and training dialogue models.
+
+<div style='clear:both;'><br /></div>
+
+## Submitting Your Work
+
+Please follow directions at [IEEE CoG 2021](https://ieee-cog.org/2021/) selecting the 'Games and NLP workshop' track on [EasyChair](https://easychair.org/conferences/?conf=ieeecog2021).
