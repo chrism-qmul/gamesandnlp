@@ -13,8 +13,8 @@ talk, and a poster and demo session.
 Important Dates:
 
 - Paper submission deadline - ~~May 28th~~ **EXTENDED May 31st**
-- Paper Acceptance - June 8th
-- Camera ready deadline - June 18th
+- Paper Acceptance - June 21st
+- Camera ready deadline - June 30th
 
 
 ## Keynote: LIGHT Project (Jack Urbanek)
@@ -32,3 +32,15 @@ framework for testing and training dialogue models.
 ## Submitting Your Work
 
 Please follow directions at [IEEE CoG 2021](https://ieee-cog.org/2021/) selecting the 'Games and NLP workshop' track on [EasyChair](https://easychair.org/conferences/?conf=ieeecog2021).
+
+## Programme
+
+Games and NLP will take place on 18:00 - 20:00 CET, 19th August
+
+- 18:00 - Welcome
+- 18:05 - The Propaganda Machine (Dulfer et al.)
+- 18:25 - A Game Interface to Study Semantic Grounding in Text Based Models (Mickus et al.)
+- 18:45 - Keynote
+- 19:15 - Language Learning and gamification features (Hou et al.)
+- 19:35 - Alignment of Language Agents (Piqueras et al.)
+- 19:55 - Closing
