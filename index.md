@@ -18,7 +18,7 @@ Important Dates: TBD
 
 One of the most difficult challenges in citizen science games is player
 recruitment.  For the first invited talk, Jérôme Waldispühl will share his
-experience  embed-ding the citizen science game Phylo into Borderlands 3, a AAA
+experience  embedding the citizen science game Phylo into Borderlands 3, a AAA
 massively multiplayer online game.  This partnership with the American Gut
 Project encourages Borderlands players to conduct RNA molecular sequence
 alignment through regular play of the Borderlands 3 game, resulting in a
