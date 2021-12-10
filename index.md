@@ -26,13 +26,13 @@ large-scale collection.
 
 <div style='clear:both;'><br /></div>
 
-## Keynote: Hikaru Yukono 
+## Keynote: Hikaru Yokono 
 
 <img style='float:left; margin-right:1em;' src="hy.png" />
 
 Recent industrial interests in intelligent conversational agents spurred on by
 systems such as Alexa and Apple Siri have driven a demand for approaches and
-re-sources pertaining to task-oriented dialogue.  In this keynote, Hikaru Yukono
+re-sources pertaining to task-oriented dialogue.  In this keynote, Hikaru Yokono
 will share his work on using the popular game Minecraft as a sandbox for
 collecting task-orientated dialogue data from players.
 
