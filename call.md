@@ -56,8 +56,8 @@ assessing game and player performance.
  
 ## Important Dates:
 - Paper submission deadline - ~~May 28th~~ **EXTENDED May 31st**
-- Paper Acceptance - June 8th
-- Camera ready deadline - June 18th
+- Paper Acceptance - June 21st
+- Camera ready deadline - June 30th
 
 ## Submissions
 
