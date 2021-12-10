@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Games and NLP 2021
+title: Games and NLP 2022
 email: c.j.madge@qmul.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Questions? Please feel free to reach out to the workshop organizers

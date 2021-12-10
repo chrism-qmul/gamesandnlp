@@ -2,45 +2,48 @@
 layout: home
 ---
 
-# Welcome to the Games and Natural Language Processing Special Session at IEEE CoG
+# Welcome to the Games and Natural Language Processing Workshop at LREC 2022
 
-The Games and NLP Special Session at [IEEE CoG 2021](https://ieee-cog.org/2021/) will examine the use of games and gamification
+The Games and NLP Workshop at [LREC 2022](https://lrec2022.lrec-conf.org/en/) will examine the use of games and gamification
 for Natural Language Processing (NLP) tasks, as well as how NLP research can
 advance player engagement and communication within games. The workshop will have
 presentations of accepted papers (full, short, extended abstracts), an invited
 talk, and a poster and demo session. 
 
-Important Dates:
+Important Dates: TBD
 
-- Paper submission deadline - ~~May 28th~~ **EXTENDED May 31st**
-- Paper Acceptance - June 21st
-- Camera ready deadline - June 30th
+## Keynote: Jérôme Waldispühl
 
+<img style='float:left; margin-right:1em;' src="jw.png" />
 
-## Keynote: LIGHT Project (Jack Urbanek)
+One of the most difficult challenges in citizen science games is player
+recruitment.  For the first invited talk, Jérôme Waldispühl will share his
+experience  embed-ding the citizen science game Phylo into Borderlands 3, a AAA
+massively multiplayer online game.  This partnership with the American Gut
+Project encourages Borderlands players to conduct RNA molecular sequence
+alignment through regular play of the Borderlands 3 game, resulting in a
+large-scale collection.
 
-<img style='float:left; margin-right:1em;' src="ju.png" />
+<div style='clear:both;'><br /></div>
 
-Jack Urbanek is a Researcher at Facebook researching dialogue systems.  Jack
-will talk about his work on his recent projects such as LIGHT (Learning in
-Interactive Games with Humans and Text)  a large scale online MUD (multi user
-dungeon) game for researching grounded language and the supporting Parl.AI, a
-framework for testing and training dialogue models.
+## Keynote: Hikaru Yukono 
+
+<img style='float:left; margin-right:1em;' src="hy.png" />
+
+Recent industrial interests in intelligent conversational agents spurred on by
+systems such as Alexa and Apple Siri have driven a demand for approaches and
+re-sources pertaining to task-oriented dialogue.  In this keynote, Hikaru Yukono
+will share his work on using the popular game Minecraft as a sandbox for
+collecting task-orientated dialogue data from players.
 
 <div style='clear:both;'><br /></div>
 
 ## Submitting Your Work
 
-Please follow directions at [IEEE CoG 2021](https://ieee-cog.org/2021/) selecting the 'Games and NLP workshop' track on [EasyChair](https://easychair.org/conferences/?conf=ieeecog2021).
+Please follow directions at [LREC 2022](https://lrec2022.lrec-conf.org/en/) as they become available.
+
+More information will be provided here soon.
 
 ## Programme
 
-Games and NLP will take place on 18:00 - 20:00 CET, 19th August
-
-- 18:00 - Welcome
-- 18:05 - The Propaganda Machine (Dulfer et al.)
-- 18:25 - A Game Interface to Study Semantic Grounding in Text Based Models (Mickus et al.)
-- 18:45 - Keynote
-- 19:15 - Language Learning and gamification features (Hou et al.)
-- 19:35 - Alignment of Language Agents (Piqueras et al.)
-- 19:55 - Closing
+TBD

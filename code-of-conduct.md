@@ -5,8 +5,8 @@ permalink: /code-of-conduct/
 ---
 
 The open exchange of ideas and the freedom of thought and expression are central
-to the aims and goals of the Games and NLP 2021 Workshop. **The organisers of
-Games and NLP 2021 commit to providing a harassment-free, accessible, inclusive,
+to the aims and goals of the Games and NLP Workshop. **The organisers of
+Games and NLP commit to providing a harassment-free, accessible, inclusive,
 and pleasant conference experience with equity in rights for all.** We want every
 participant to feel welcome, included, and safe at the conference.
 
