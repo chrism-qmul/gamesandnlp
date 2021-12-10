@@ -14,24 +14,24 @@ permalink: /organisation/
 
 ## Programme Committee
 
-- Alice Millour	Sorbonne Université
-- Andrew Gordon	University of Southern California, Institute of Creative Technology
-- Andrew Stern 	Playabl Studios, US
-- Chris Cieri	Linguistic Data Consortium, University of Pennsylvania, US
-- Ian Horswill	Northwestern University
-- James Fiumara	Linguistic Data Consortium, University of Pennsylvania, US
-- Jonathan Lessard	Universite Condoria
-- Josh Miller	Northeastern University, US
-- Mariët Theune	University of Twente
-- Mathieu Lafourcade	LIRMM, France
-- Melissa Roemmele 	SDL, US
-- Morteza Behrooz	University of California, Santa Cruz, US
-- Paulo F. Gomes	University of California Santa Cruz, US
-- Pedro Santos	INESC-ID & Instituto Superior Técnico, University of Lisbon
-- Richard Bartle	University of Essex, UK
-- Seth Cooper	Northeastern University, US
-- Valerio Basile	University of Turin, Italy
-- Verena Lyding	EURAC, Italy
-- Wookhee Min	North Carolina State University
-- Luis Morgado da Costa	Nanyang Technological University, Singapore
-- Timothee Mickus	Université de Lorraine
+- Alice Millour	(Sorbonne Université)
+- Andrew Gordon	(University of Southern California, Institute of Creative Technology)
+- Andrew Stern 	(Playabl Studios, US)
+- Chris Cieri	(Linguistic Data Consortium, University of Pennsylvania, US)
+- Ian Horswill	(Northwestern University)
+- James Fiumara	(Linguistic Data Consortium, University of Pennsylvania, US)
+- Jonathan Lessard	(Universite Condoria)
+- Josh Miller	(Northeastern University, US)
+- Mariët Theune	(University of Twente)
+- Mathieu Lafourcade	(LIRMM, France)
+- Melissa Roemmele 	(SDL, US)
+- Morteza Behrooz	(University of California, Santa Cruz, US)
+- Paulo F. Gomes	(University of California Santa Cruz, US)
+- Pedro Santos	(INESC-ID & Instituto Superior Técnico, University of Lisbon)
+- Richard Bartle	(University of Essex, UK)
+- Seth Cooper	(Northeastern University, US)
+- Valerio Basile	(University of Turin, Italy)
+- Verena Lyding	(EURAC, Italy)
+- Wookhee Min	(North Carolina State University)
+- Luis Morgado da Costa	(Nanyang Technological University, Singapore)
+- Timothee Mickus	(Université de Lorraine)
