@@ -10,7 +10,8 @@ advance player engagement and communication within games. The workshop will have
 presentations of accepted papers (full, short, extended abstracts), an invited
 talk, and a poster and demo session. 
 
-Important Dates: TBD
+Important Dates: 
+{% include dates.md %}
 
 ## Keynote: Jérôme Waldispühl
 
@@ -45,5 +46,7 @@ Please follow directions at [LREC 2022](https://lrec2022.lrec-conf.org/en/) as t
 More information will be provided here soon.
 
 ## Programme
+
+Saturday, June 25th
 
 TBD
