@@ -19,6 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Questions? Please feel free to reach out to the workshop organizers
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gamesandnlp.com" # the base hostname & protocol for your site, e.g. http://example.com
+google_analytics: "G-P2R63WKFL0"
 
 # Build settings
 markdown: kramdown
