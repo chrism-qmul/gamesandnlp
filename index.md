@@ -41,6 +41,8 @@ collecting task-orientated dialogue data from players.
 
 ## Submitting Your Work
 
+Submissions are to be made via [Softconf/START Conference Manager](https://www.softconf.com/lrec2022/Games/).
+
 Please follow directions at [LREC 2022](https://lrec2022.lrec-conf.org/en/) as they become available.
 
 More information will be provided here soon.
