@@ -49,6 +49,6 @@ More information will be provided here soon.
 
 ## Programme
 
-Saturday, June 25th
+**Saturday, June 25th** (all times are CEST/UTC+2)
 
-TBD
+{% include programme.md %}
