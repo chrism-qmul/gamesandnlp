@@ -4,7 +4,7 @@ title: Past Workshops
 permalink: /past-workshops/
 ---
 
-The Games and NLP 2022 workshop expands upon and combines a number of successful
+The Games and NLP 2024 workshop expands upon and combines a number of successful
 predecessors:
 
 GAMNLP-12: A special session at the 8th International Conference on Natural
@@ -28,4 +28,6 @@ Conference (FDC-19)
 [GAMNLP-20](https://sites.google.com/view/gamnlp2020/): A full-day workshop at the 13th Edition of the Language Resources and
 Evaluation Conference (LREC20)
 
-[Games and NLP](https://2021.gamesandnlp.com): A half-day special session at [IEEE CoG 2021](https://ieee-cog.org/2021/)
+[Games and NLP 2021](https://2021.gamesandnlp.com): A half-day special session at [IEEE CoG 2021](https://ieee-cog.org/2021/)
+
+[Games and NLP 2022](https://2022.gamesandnlp.com): A half-day workshop at [LREC 2022](https://lrec2022.lrec-conf.org/en/)

@@ -2,53 +2,27 @@
 layout: home
 ---
 
-# Welcome to the Games and Natural Language Processing Workshop at LREC 2022
+# Welcome to the Games and Natural Language Processing Workshop at LREC 2024
 
-The Games and NLP Workshop at [LREC 2022](https://lrec2022.lrec-conf.org/en/) will examine the use of games and gamification
+The Games and NLP Workshop at [LREC-COLING 2024](https://lrec-coling-2024.org/) will be a full day workshop examining the use of games and gamification
 for Natural Language Processing (NLP) tasks, as well as how NLP research can
 advance player engagement and communication within games. The workshop will have
 presentations of accepted papers (full, short, extended abstracts), an invited
 talk, and a poster and demo session. 
 
-Important Dates: 
-{% include dates.md %}
+## Keynote: Mathieu Lafourcade
 
-## Keynote: Jérôme Waldispühl
+<img style='float:left; margin-right:1em;' src="ml.jpeg" />
 
-<img style='float:left; margin-right:1em;' src="jw.png" />
-
-One of the most difficult challenges in citizen science games is player
-recruitment.  For the first invited talk, Jérôme Waldispühl will share his
-experience  embedding the citizen science game Phylo into Borderlands 3, a AAA
-massively multiplayer online game.  This partnership with the American Gut
-Project encourages Borderlands players to conduct RNA molecular sequence
-alignment through regular play of the Borderlands 3 game, resulting in a
-large-scale collection.
+Mathieu Associate Professor at the University Montpellier II, Montpellier,
+France, and undertakes his research activity at LIRMM. He is the author of the
+book "Games with a Purpose (GWAPs)", and creator of one of the first GWAPs
+for Natural Language Processing tasks, "Jeux de Mots".
 
 <div style='clear:both;'><br /></div>
 
-## Keynote: Hikaru Yokono 
+## More details to follow
 
-<img style='float:left; margin-right:1em;' src="hy.png" />
-
-Recent industrial interests in intelligent conversational agents spurred on by
-systems such as Alexa and Apple Siri have driven a demand for approaches and
-re-sources pertaining to task-oriented dialogue.  In this keynote, Hikaru Yokono
-will share his work on using the popular game Minecraft as a sandbox for
-collecting task-orientated dialogue data from players.
-
-<div style='clear:both;'><br /></div>
-
-## Submitting Your Work
-
-Submissions are to be made via [Softconf/START Conference Manager](https://www.softconf.com/lrec2022/Games/).
-
-Please follow directions at [LREC 2022](https://lrec2022.lrec-conf.org/en/) as they become available.
+Please follow directions at [LREC-COLING 2024](https://lrec-coling-2024.org/) as they become available.
 
 More information will be provided here soon.
-
-## Programme
-
-**Saturday, June 25th** (all times are CEST/UTC+2)
-
-{% include programme.md %}
