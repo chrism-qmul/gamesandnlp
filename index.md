@@ -23,6 +23,4 @@ for Natural Language Processing tasks, "Jeux de Mots".
 
 ## More details to follow
 
-Please follow directions at [LREC-COLING 2024](https://lrec-coling-2024.org/) as they become available.
-
-More information will be provided here soon.
+More information will be provided here soon. In the meantime, please see our [past workshops](/past-workshops/) for a hint of what is to follow.
